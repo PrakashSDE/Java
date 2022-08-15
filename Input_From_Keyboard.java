@@ -6,6 +6,7 @@ public class Input_From_Keyboard{
           
 
           String str=sc.nextLine();
+          sc.nextLine();         
           System.out.println("nextLine=" +str);
 
 
