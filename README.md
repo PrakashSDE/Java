@@ -1,8 +1,8 @@
           Core Java 
 
 
-#Java Operator Precedence
-          Operators	Precedence
+         Operators	Precedence
+          
 postfix increment and decrement         ++ --
 
 prefix increment and decrement, and unary   ++ -- + - ~ !
