@@ -10,7 +10,6 @@ public class Input_From_Keyboard{
           System.out.println("nextLine=" +str);
 
 
-          
           byte a;
           short b;
           int c;
@@ -28,9 +27,7 @@ public class Input_From_Keyboard{
           boolean g=sc.nextBoolean();   // (1 bit) Stores true or false values
           System.out.println("nextFloat=" +e +"  nextDouble=" +f+ "  nextBoolean=" +g);
           
-          
-
-       
+     
 
           }
 }
