@@ -26,8 +26,6 @@ public class Input_From_Keyboard{
           double f=sc.nextDouble();     //(8 bytes) Stores fractional numbers. Sufficient for storing 15 decimal digits
           boolean g=sc.nextBoolean();   // (1 bit) Stores true or false values
           System.out.println("nextFloat=" +e +"  nextDouble=" +f+ "  nextBoolean=" +g);
-          
-     
 
           }
 }
