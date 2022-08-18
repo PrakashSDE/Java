@@ -37,6 +37,8 @@ class Child extends Parent
 public class Constructor
 {
     public static void main(String[] args) {
-      Child ref = new Child(10,20);
+        Child ref = new Child();
+        Child ref1 = new Child(10);
+        Child ref2 = new Child(10,20);
     }  
 }
