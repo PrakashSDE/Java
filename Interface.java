@@ -34,7 +34,6 @@ public class Interface{
                       // method with body in Abstract Class
            ref.meth4();
            ref.meth5(); 
-           
           Test1 ref1=new My();
            ref1.meth1();
            ref1.meth2();
