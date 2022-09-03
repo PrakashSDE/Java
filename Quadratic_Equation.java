@@ -10,5 +10,5 @@ public class Quadratic_Equation{
           double r1=(-b+Math.sqrt(b*b-4*a*c))/2*a;
           double r2=(-b-Math.sqrt(b*b-4*a*c))/2*a;
           System.out.println("The root of equation is: " +r1+  "  "  +r2);
-          }
+         }
 }
