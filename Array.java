@@ -41,27 +41,17 @@ public class Array{
         System.out.println(arr4[i]);
         }
 
-        
          for(int i=0; i<arr5.length; i++){
         System.out.println(arr5[i]);
         }
 
-        
          for(int i=0; i<arr6.length; i++){
         System.out.println(arr6[i]);
         }
-
-
+        
         for(int i=0; i<arr7.length; i++){
         System.out.println(arr7[i]);
         }
-
-    
-
-
-        
-
-
 
     }
 
