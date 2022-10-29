@@ -1,6 +1,7 @@
 import java.util.*;
 
 class Parent
+    
 {
     public Parent(){
         System.out.println("Parent Constrcutor");
@@ -15,6 +16,7 @@ class Parent
     }
             
 }
+
 
 class Child extends Parent
 {
