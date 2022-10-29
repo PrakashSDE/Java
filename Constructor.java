@@ -17,7 +17,6 @@ class Parent
             
 }
 
-
 class Child extends Parent
 {
     public Child(){
@@ -34,6 +33,7 @@ class Child extends Parent
         System.out.println("Child Constructor2");
     }
 }
+
 
 
 public class Constructor
